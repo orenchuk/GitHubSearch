@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GITHUB_CLIENT_SECRET</key>
+	<string>7b21026e03c9911a1a3cdbed1e74a86660f8573d</string>
+	<key>GITHUB_CLIENT_ID</key>
+	<string>1cc582d3ed160f15ac35</string>
+</dict>
+</plist>
